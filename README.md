@@ -16,7 +16,7 @@ Source : https://github.com/Litarvan/lightdm-webkit-theme-litarvan
 ![Preview of state bar](https://image.ibb.co/dt7Ogw/statebar.png)
 
 ## Packet indispensable 
-	yaourt -S thunar urxvt-unicode redshift deepin-screenshot feh playerctl redshift
+	yaourt -S openssh thunar urxvt-unicode redshift deepin-screenshot feh playerctl redshift
 AUR :
 
 	yaourt -S vivaldi-snapshot spotify
